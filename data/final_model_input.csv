@@ -1,0 +1,44 @@
+Study,Cell Line,Condition,Apoptosis (%),PARP Fold Change,ROS Level,Cell Viability (%),H2O2 (500 µM),NAC (µM),ROS Production (Fold Change),Notes,Source File,PEGylated,Nanoparticle_type,Nanoparticle,NAC,H2O2_mM,Concentration_mg/mL,ROS_Level_%Control,Observation,Treatment,Endpoint,Inducer,% Positive Cells,Timepoint,NAC_present,H2O2_present,Time (h),PN,PNM,PNNM
+PEITC+NAC Apoptosis,SKOV-3,PEITC + NAC,12.5,25.0,,,,,,,,,,,,,,,,,,,,,,,
+PEITC+NAC Apoptosis,PA-1,PEITC + NAC,5.0,10.0,,,,,,,,,,,,,,,,,,,,,,,
+SW480 Glucose NAC,SW480,Glucose(-) + NAC,14.6,,20.0,75.0,,,,,,,,,,,,,,,,,,,,,,
+SW620 Glucose NAC,SW620,Glucose(-) + NAC,12.0,,25.0,78.0,,,,,,,,,,,,,,,,,,,,,,
+Xn + NAC,Unspecified Cancer,Xn + NAC,10.0,,2.0,70.0,,,,,,,,,,,,,,,,,,,,,,
+AS serum + NAC,Primary Human Cells,AS serum + NAC,,,3.5,80.0,,,,,,,,,,,,,,,,,,,,,,
+,158N,control,,,,,-,-,1.0,baseline,ros_nac_rescue_158n.csv,0.0,ros,,,,,,,,,,,,,,,
+,158N,nac only,,,,,-,500,0.6,significantly lower,ros_nac_rescue_158n.csv,0.0,ros,,,,,,,,,,,,,,,
+,158N,h2o2 only,,,,,+,-,6.0,significant increase,ros_nac_rescue_158n.csv,0.0,ros,,,,,,,,,,,,,,,
+,158N,h2o2 + nac,,,,,+,50,5.8,partial rescue,ros_nac_rescue_158n.csv,0.0,ros,,,,,,,,,,,,,,,
+,158N,h2o2 + nac,,,,,+,100,3.8,significant reduction,ros_nac_rescue_158n.csv,0.0,ros,,,,,,,,,,,,,,,
+,158N,h2o2 + nac,,,,,+,250,2.4,strong rescue,ros_nac_rescue_158n.csv,0.0,ros,,,,,,,,,,,,,,,
+,158N,h2o2 + nac,,,,,+,500,2.0,strong rescue,ros_nac_rescue_158n.csv,0.0,ros,,,,,,,,,,,,,,,
+,158N,158n untreated,,,,,,-,1.0,baseline,ros_nac_158n_vs_158jp.csv,0.0,ros,,,,,,,,,,,,,,,
+,158N,158n + h2o2,,,,,,-,10.5,### strong ros elevation,ros_nac_158n_vs_158jp.csv,0.0,ros,,,,,,,,,,,,,,,
+,158JP,158jp + h2o2,,,,,,25,3.7,*** partial suppression,ros_nac_158n_vs_158jp.csv,0.0,ros,,,,,,,,,,,,,,,
+,158JP,158jp + h2o2,,,,,,100,4.0,*** partial suppression,ros_nac_158n_vs_158jp.csv,0.0,ros,,,,,,,,,,,,,,,
+,Kasumi-1,kasumi-1 untreated,,,,,,-,1.0,baseline,kasumi_study.png,0.0,ros,,,,,,,,,,,,,,,
+,Kasumi-1,kasumi-1 + h2o2,,,,,+,-,5.9,sharp increase in ROS,kasumi_study.png,0.0,ros,,,,,,,,,,,,,,,
+,Kasumi-1,kasumi-1 + nac,,,,,+,500,2.7,rescue effect,kasumi_study.png,0.0,ros,,,,,,,,,,,,,,,
+,MOLM-13,molm-13 untreated,,,,,,-,1.0,baseline,molm13_nac_h2o2.png,0.0,ros,,,,,,,,,,,,,,,
+,MOLM-13,molm-13 + h2o2,,,,,+,-,7.2,strong ROS elevation,molm13_nac_h2o2.png,0.0,ros,,,,,,,,,,,,,,,
+,MOLM-13,molm-13 + nac,,,,,+,500,3.1,partial ROS suppression,molm13_nac_h2o2.png,0.0,ros,,,,,,,,,,,,,,,
+,MOLM-13,molm-13 + nac + peg,,,,,+,500,1.8,enhanced suppression with PEG,molm13_nac_h2o2.png,1.0,peg_ros,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,Ta NPs,None,1.0,0.5,40,Partial ROS reduction,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,Ta NPs,None,1.0,1.0,30,Significant ROS reduction,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,Ta NPs,None,1.0,2.0,20,Strong ROS reduction,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,PFNP,10mM,Not specified,10 μM,Qualitative,APE1 recovery & viability improved,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,PFNP,10mM,Not specified,Not specified,Qualitative,Sustained intracellular retention and tumor accumulation,,,,,,,,,,,,,,
+,U937,,,,,,,,,,,0.0,,,,,,,,NAC,Cell Death,NAC,10.0,varied mM,,,,,
+,U937,,,,,,,,,,,0.0,,,,,,,,NAC + 100U SOD,Cell Death,NAC,60.0,varied mM,,,,,
+,U937,,,,,,,,,,,0.0,,,,,,,,NAC + 200U SOD,Cell Death,NAC,80.0,varied mM,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,24,~0.42,~0.08,~0.60
+,,,,,,,,,,,,,,,,,,,,,,,,48,~0.52,~0.15,~0.80
+,,,,,,,,,,,,,,,,,,,,,,,,72,~0.55,~0.23,~0.90
+,,,,,,,,,,,,,,,,,,,,,,,,96,~0.56,~0.30,~1.00
+,,,,,,,,,,,,,,,,,,,,,,,,144,~0.56,~0.36,~1.05
+,,,,,,,,,,,,,,,,,,,,,,,,192,~0.56,~0.42,~1.10
+,,,,,,,,,,,,,,,,,,,,,,,,240,~0.56,~0.47,~1.15
+,,,,,,,,,,,,,,,,,,,,,,,,288,~0.56,~0.52,~1.20
+
+

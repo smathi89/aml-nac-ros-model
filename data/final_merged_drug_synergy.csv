@@ -1,0 +1,3 @@
+Panel,Treatment,Group A,Dose A,Group B,Dose B,Combination Dose,Day 4 Confluence (%),Day 6 Image Observation,CI Data Summary
+A,Mito₁₀-NAC + NAC,Mito₁₀-NAC,12.5 μM,NAC,15 mM,12.5 μM + 15 mM,~30%,Sparse cells,CI < 1 across Fa 0.4–1.0 at NAC 15–25 mM
+B,Mito₁₀-NAC + AZD3965,Mito₁₀-NAC,8 μM,AZD3965,150 μM,8 μM + 150 μM,~20%,Sparse cells,CI < 1 across Fa 0.2–1.0 at AZD3965 40–200 μM

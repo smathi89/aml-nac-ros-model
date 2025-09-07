@@ -1,0 +1,13 @@
+feature,coefficient
+cat__Concentration_mg/mL_0.5,-0.09919604023910973
+cat__Concentration_mg/mL_2.0,0.0847149801257799
+cat__Cell Line_Primary Human Cells,0.0004798118242559997
+num__IC50,1.0901430116295462e-06
+num__CD14 Fold Increase (NB4),0.0
+num__CD14 Fold Increase (OCI-AML3),0.0
+num__CD14 Fold Increase (HL60),0.0
+cat__Units_mM,0.0
+cat__Cell Line_PA-1,-0.0
+cat__Units_μM,-0.0
+cat__Cell Line_SKOV-3,-0.0
+cat__Concentration_mg/mL_1.0,0.0

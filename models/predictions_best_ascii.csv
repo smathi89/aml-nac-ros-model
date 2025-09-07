@@ -1,0 +1,50 @@
+﻿Cell Line,Compound Name,Condition,Nanoparticle,Concentration (uM),Units,prediction
+SKOV-3,Mito-nNAC-SMe,PEITC + NAC,Ta NPs,0.0,uM,0.99138355
+SKOV-3,Mito-nNAC-SMe,PEITC + NAC,Ta NPs,0.0,uM,0.99138355
+SKOV-3,Mito-nNAC-SMe,PEITC + NAC,Ta NPs,0.0,uM,0.99138355
+SKOV-3,Mito-nNAC-SMe,PEITC + NAC,Ta NPs,0.0,uM,0.99138355
+SKOV-3,Mito-nNAC-SMe,PEITC + NAC,Ta NPs,0.0,uM,0.99138355
+SKOV-3,Mito-PEG-NAC,PEITC + NAC,Ta NPs,0.0,uM,0.99138355
+SKOV-3,NAC-SMe,PEITC + NAC,Ta NPs,0.0,mM,0.99138355
+SKOV-3,NAC amide,PEITC + NAC,Ta NPs,0.0,mM,0.99138355
+SKOV-3,NAC amide,PEITC + NAC,Ta NPs,0.0,mM,0.99138355
+PA-1,NAC amide,PEITC + NAC,Ta NPs,0.0,mM,0.99138355
+Primary Human Cells,NAC amide,AS serum + NAC,Ta NPs,0.0,mM,0.99138355
+Primary Human Cells,NAC amide,AS serum + NAC,Ta NPs,0.0,mM,0.99138355
+Primary Human Cells,NAC amide,AS serum + NAC,Ta NPs,0.0,mM,0.99138355
+Primary Human Cells,NAC amide,AS serum + NAC,Ta NPs,0.0,mM,0.99138355
+Primary Human Cells,NAC amide,AS serum + NAC,PFNP,25.0,mM,0.99138355
+Primary Human Cells,NAC amide,AS serum + NAC,PFNP,25.0,mM,0.99138355
+Primary Human Cells,NAC amide,AS serum + NAC,PFNP,50.0,mM,0.99138355
+Primary Human Cells,NAC amide,AS serum + NAC,PFNP,50.0,mM,0.99138355
+Primary Human Cells,NAC amide,AS serum + NAC,PFNP,100.0,mM,0.99138355
+Primary Human Cells,NAC amide,AS serum + NAC,PFNP,100.0,mM,0.99138355
+Primary Human Cells,NAC amide,AS serum + NAC,PFNP,50.0,mM,0.99138355
+Primary Human Cells,NAC amide,AS serum + NAC,PFNP,50.0,mM,0.99138355
+Primary Human Cells,NAC amide,AS serum + NAC,PFNP,100.0,mM,0.99138355
+Primary Human Cells,NAC amide,AS serum + NAC,PFNP,100.0,mM,0.99138355
+Primary Human Cells,NAC amide,AS serum + NAC,PFNP,300.0,mM,0.99138355
+Primary Human Cells,NAC amide,AS serum + NAC,PFNP,300.0,mM,0.99138355
+Primary Human Cells,NAC amide,AS serum + NAC,PFNP,100.0,mM,0.99138355
+Primary Human Cells,NAC amide,AS serum + NAC,PFNP,100.0,mM,0.99138355
+Primary Human Cells,NAC amide,AS serum + NAC,PFNP,300.0,mM,0.99138355
+Primary Human Cells,NAC amide,AS serum + NAC,PFNP,300.0,mM,0.99138355
+Primary Human Cells,NAC amide,AS serum + NAC,PFNP,500.0,mM,0.99138355
+Primary Human Cells,NAC amide,AS serum + NAC,PFNP,500.0,mM,0.99138355
+U2OS,NAC amide,APE1 knockdown,PFNP,500.0,mM,0.99138355
+U2OS,NAC amide,Scramble control,PFNP,500.0,mM,0.99138355
+U2OS,NAC amide,mAPE1,PFNP,500.0,mM,0.99138355
+SAOS2,NAC amide,mAPE1,PFNP,500.0,mM,0.99138355
+U2OS,NAC amide,Sensitive,PFNP,500.0,mM,0.99138355
+U2OS(R),NAC amide,Resistant,PFNP,500.0,mM,0.99138355
+U2OS,NAC amide,APE1siRNA,PFNP,500.0,mM,0.99138355
+U2OS,NAC amide,SCsiRNA,PFNP,500.0,mM,0.99138355
+RAW264.7,NAC amide,Xn,PFNP,500.0,mM,0.99138355
+RAW264.7,NAC amide,Xn+NAC,PFNP,500.0,mM,0.99138355
+HL-60,NAC amide,NAC alone,PFNP,500.0,mM,0.99138355
+HL-60,NAC amide,NAC+SOD,PFNP,500.0,mM,0.99138355
+U937,NAC amide,NAC alone,PFNP,500.0,mM,0.99138355
+U937,NAC amide,NAC+SOD,PFNP,500.0,mM,0.99138355
+HeLa,NAC amide,2a,PFNP,500.0,mM,0.99138355
+HeLa,NAC amide,NAC co-treatment,PFNP,500.0,mM,0.99138355
+

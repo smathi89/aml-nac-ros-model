@@ -1,0 +1,18 @@
+Treatment,Cell Line/Context,Measurement Type,Value,Units,Notes
+PEG-NAC (100 µg/mL),HL60,ROS Reduction,65,%,Compared to untreated
+PEG-NAC (200 µg/mL),HL60,ROS Reduction,80,%,Compared to untreated
+PEG-NAC + DOX,U937,ROS Reduction,55,%,NAC-loaded PEG nanoparticles + Doxorubicin
+PEGylated NAC only,U937,ROS Reduction,35,%,Compared to DOX alone
+PEG-NAC,THP-1,ROS Suppression,50,%,After 24h
+PEG-NAC (200 µg/mL),THP-1,Cell Viability,90,%,Measured via MTT assay
+PEG-NAC (200 µg/mL),HL60,ROS+ Cells,30,%,Flow cytometry
+PEG-NAC + Chemotherapy,HL60,ROS+ Cells,20,%,Combination therapy
+20 µM MSB,BM Healthy,Mitochondrial ROS,1000,arbitrary units,Peak intensity from histogram
+20 µM MSB + 100 µM NAC,BM Healthy,Mitochondrial ROS,400,arbitrary units,Peak intensity reduced
+20 µM MSB,BM MLL-AF9,Mitochondrial ROS,1200,arbitrary units,Leukemic cells
+20 µM MSB + 100 µM NAC,BM MLL-AF9,Mitochondrial ROS,600,arbitrary units,Partial ROS suppression
+TRAIL + Ethanol,HepG2,DCF Fluorescence,28000,fluorescence units,Oxidative stress assay
+TRAIL + Ethanol + NAC,HepG2,DCF Fluorescence,9000,fluorescence units,NAC rescues ROS
+TRAIL + Ethanol,HepG2,Apoptosis,42,%,Measured via Annexin V
+TRAIL + Ethanol + NAC,HepG2,Apoptosis,15,%,Reduced apoptosis due to NAC
+

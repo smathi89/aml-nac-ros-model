@@ -1,0 +1,6 @@
+Condition,DCFH-DA Fluorescence (arbitrary unit),Cell Growth at 24 hrs,Cell Growth at 48 hrs,Cell Growth at 72 hrs
+Ctrl,1,100,110,120
+Ctrl + 4mM NAC,5.5,105,130,150
+PEITC,2,80,90,100
+PEITC + 4mM NAC,6,105,140,160
+

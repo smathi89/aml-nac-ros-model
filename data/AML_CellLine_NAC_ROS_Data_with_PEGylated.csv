@@ -1,0 +1,17 @@
+Cell Line,Treatment,Endpoint,Inducer,% Positive Cells,Timepoint,PEGylated
+NB4,NAC,ROS,H2O2,4.27,Day 4,0
+NB4,2F5,ROS,2F5,46.47,Day 4,0
+NB4,H2O2,ROS,H2O2,65.42,Day 4,0
+NB4,NAC + 2F5,ROS,2F5,4.91,Day 4,0
+HL-60,NAC,ROS,H2O2,2.5,Day 4,0
+HL-60,2F5,ROS,2F5,64.03,Day 4,0
+HL-60,H2O2,ROS,H2O2,69.94,Day 4,0
+HL-60,NAC + 2F5,ROS,2F5,3.14,Day 4,0
+HL-60,NAC,Cell Death,NAC,55.0,varied mM,0
+HL-60,NAC + 100U SOD,Cell Death,NAC,90.0,varied mM,0
+HL-60,NAC + 200U SOD,Cell Death,NAC,98.0,varied mM,0
+U937,NAC,Cell Death,NAC,10.0,varied mM,0
+U937,NAC + 100U SOD,Cell Death,NAC,60.0,varied mM,0
+U937,NAC + 200U SOD,Cell Death,NAC,80.0,varied mM,0
+KG1a,NAC,Apoptosis,,10.5,72h,0
+HL-60,NAC,Apoptosis,,5.5,72h,0

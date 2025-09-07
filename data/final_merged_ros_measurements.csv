@@ -1,0 +1,44 @@
+Treatment Condition,CD14 Fold Increase (HL60),CD14 Fold Increase (OCI-AML3),CD14 Fold Increase (NB4),ROS Oxidation (HL60),ROS Oxidation (OCI-AML3),ROS Oxidation (NB4),Compound Name,IC50,Dosing Range,Units,Concentrations Tested,Microscopy Images,Observed Response,Study,Cell Line,Condition,Apoptosis (%),PARP Fold Change,ROS Level,Cell Viability (%),Nanoparticle,NAC,H2O2_mM,Concentration_mg/mL,ROS_Level_%Control,Observation,Drug,Concentration (μM),siRNA,% ROS+ Cells
+Condition,1.0,1.0,1.0,1.0,1.0,1.0,,,,,,,,,,,,,,,,,,,,,,,,
+NAC,3.5,2.0,2.5,0.8,0.9,0.85,,,,,,,,,,,,,,,,,,,,,,,,
+DFO,1.0,1.1,1.2,2.3,2.4,2.1,,,,,,,,,,,,,,,,,,,,,,,,
+DFO + NAC,5.0,3.5,4.0,1.2,1.1,1.3,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,Mito-nNAC-SMe,1.9,0–100,μM,"0, 0.1, 0.2, 0.4, 0.8, 1.6, 3.1, 6.25, 12.5, 25, 50, 100","control, 1.6 μM, 12.5 μM","Starts dropping at 1.6 μM, near-zero at ≥12.5 μM",,,,,,,,,,,,,,,,,
+,,,,,,,Mito-PEG-NAC,36.7,0–100,μM,Same as above,"control, 25 μM, 50 μM","Moderate drop at 25 μM, severe at 50 μM",,,,,,,,,,,,,,,,,
+,,,,,,,NAC-SMe,6600.0,0–100,mM,"0, 0.1, 0.2, 0.4, 0.8, 1.6, 3.1, 6.25, 12.5, 25, 50, 100","control, 6.2 mM, 25 mM","Initial drop at 6.25 mM, near-zero at ≥25 mM",,,,,,,,,,,,,,,,,
+,,,,,,,NAC amide,4300.0,0–100,mM,Same as above,"control, 3.1 mM, 6.2 mM","Gradual drop at 3.1 mM, steep decline by 6.2 mM",,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,PEITC+NAC Apoptosis,SKOV-3,PEITC + NAC,12.5,25.0,,,,,,,,,,,,
+,,,,,,,,,,,,,,PEITC+NAC Apoptosis,PA-1,PEITC + NAC,5.0,10.0,,,,,,,,,,,,
+,,,,,,,,,,,,,,SW480 Glucose NAC,SW480,Glucose(-) + NAC,14.6,,20.0,75.0,,,,,,,,,,
+,,,,,,,,,,,,,,SW620 Glucose NAC,SW620,Glucose(-) + NAC,12.0,,25.0,78.0,,,,,,,,,,
+,,,,,,,,,,,,,,Xn + NAC,Unspecified Cancer,Xn + NAC,10.0,,2.0,70.0,,,,,,,,,,
+,,,,,,,,,,,,,,AS serum + NAC,Primary Human Cells,AS serum + NAC,,,3.5,80.0,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,Ta NPs,None,1.0,0.5,40,Partial ROS reduction,,,,
+,,,,,,,,,,,,,,,,,,,,,Ta NPs,None,1.0,1.0,30,Significant ROS reduction,,,,
+,,,,,,,,,,,,,,,,,,,,,Ta NPs,None,1.0,2.0,20,Strong ROS reduction,,,,
+,,,,,,,,,,,,,,,,,,,,,PFNP,10mM,Not specified,10 μM,Qualitative,APE1 recovery & viability improved,,,,
+,,,,,,,,,,,,,,,,,,,,,PFNP,10mM,Not specified,Not specified,Qualitative,Sustained intracellular retention and tumor accumulation,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Cisplatin,0.0,SCsiRNA,2%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Cisplatin,0.0,APE1siRNA,3%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Cisplatin,25.0,SCsiRNA,5%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Cisplatin,25.0,APE1siRNA,13%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Cisplatin,50.0,SCsiRNA,30%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Cisplatin,50.0,APE1siRNA,50%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Cisplatin,100.0,SCsiRNA,38%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Cisplatin,100.0,APE1siRNA,67%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Oxaliplatin,0.0,SCsiRNA,5%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Oxaliplatin,0.0,APE1siRNA,6%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Oxaliplatin,50.0,SCsiRNA,9%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Oxaliplatin,50.0,APE1siRNA,6%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Oxaliplatin,100.0,SCsiRNA,14%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Oxaliplatin,100.0,APE1siRNA,20%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Oxaliplatin,300.0,SCsiRNA,28%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Oxaliplatin,300.0,APE1siRNA,41%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Carboplatin,0.0,SCsiRNA,3%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Carboplatin,0.0,APE1siRNA,3%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Carboplatin,100.0,SCsiRNA,5%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Carboplatin,100.0,APE1siRNA,3%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Carboplatin,300.0,SCsiRNA,4%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Carboplatin,300.0,APE1siRNA,3%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Carboplatin,500.0,SCsiRNA,4%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Carboplatin,500.0,APE1siRNA,3%

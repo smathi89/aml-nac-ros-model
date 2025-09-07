@@ -1,0 +1,5 @@
+Sample ID,Sample Type,S/AS Ratio,Diameter (nm ± SD),Distribution Sample ID,Distribution Peak (nm, est),Shape
+i,HFF,0.0075,35 ± 3.4,HFF(0.0075),~35,narrow
+ii,HFF,0.036,44 ± 4.5,HFF(0.036),~44,moderate width
+iii,HFF,0.115,50 ± 6.7,HFF(0.115),~50,broader
+iv,Bulk,0.1,51 ± 7.1,Bulk (0.1),~51,similar to HFF(0.115)

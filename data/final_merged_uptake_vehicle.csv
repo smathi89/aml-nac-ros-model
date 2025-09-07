@@ -1,0 +1,18 @@
+N/P Ratio,Particle Size - H4G (nm),Particle Size - Pep1 (nm),Particle Size - MPG (nm),Particle Size - Vago (nm),Particle Size - Vanta (nm),Zeta Potential - H4G (mV),Zeta Potential - Pep1 (mV),Zeta Potential - MPG (mV),Zeta Potential - Vago (mV),Zeta Potential - Vanta (mV),Sample ID,Sample Type,S/AS Ratio,Diameter (nm ± SD),Distribution Sample ID,Distribution Peak (nm, est),Shape,HFF 5 µL Diameter (nm),HFF 15 µL Diameter (nm),Bulk Diameter (nm),Method,Diameter Range (nm),Transfection Agent,Zeta Potential (mV)
+1.0,~130,~120,~130,~150,~170,~-10,~-10,~-12,~-11,~-12,,,,,,,,,,,,,,,
+2.0,~270,~200,~360,~250,~320,~-2,~-3,~-5,~-4,~-5,,,,,,,,,,,,,,,
+4.0,~60,~50,~55,~60,~70,~10,~12,~11,~10,~11,,,,,,,,,,,,,,,
+6.0,~55,~50,~50,~55,~60,~12,~13,~12,~12,~13,,,,,,,,,,,,,,,
+8.0,~55,~50,~55,~55,~60,~13,~12,~13,~12,~13,,,,,,,,,,,,,,,
+,,,,,,,,,,,i,HFF,0.0075,35 ± 3.4,HFF(0.0075),~35,narrow,,,,,,,,
+,,,,,,,,,,,ii,HFF,0.036,44 ± 4.5,HFF(0.036),~44,moderate width,,,,,,,,
+,,,,,,,,,,,iii,HFF,0.115,50 ± 6.7,HFF(0.115),~50,broader,,,,,,,,
+,,,,,,,,,,,iv,Bulk,0.1,51 ± 7.1,Bulk (0.1),~51,similar to HFF(0.115),,,,,,,,
+,,,,,,,,,,,,,0.0075,,,,,,~50,,,HFF,44-97,,
+,,,,,,,,,,,,,0.01,,,,,,~55,,~78,bulk,71-89,,
+,,,,,,,,,,,,,0.1,,,,,,~80,~88,~89,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,Lipofectamine LTX/Plus,~85
+,,,,,,,,,,,,,,,,,,,,,,,,FUGENE HD,~65
+,,,,,,,,,,,,,,,,,,,,,,,,GeneIn,~50
+,,,,,,,,,,,,,,,,,,,,,,,,Attractene,~45
+,,,,,,,,,,,,,,,,,,,,,,,,jetPRIME,~45

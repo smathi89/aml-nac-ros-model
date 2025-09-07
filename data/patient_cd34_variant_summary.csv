@@ -1,0 +1,11 @@
+Patient,Sample,CD34 Status,FLT3-ITD VAF (%),NPM1mut VAF (%),DNMT3A R882C (%),DNMT3A R882H (%),Allelic Ratio (AR)
+Pt.1,-,CD34 +,~57,~50,0,0,1.32
+Pt.1,-,CD34 -,~43,~45,~5,0,1.2
+Pt.2,-,CD34 +,~30,~20,0,0,0.55
+Pt.2,-,CD34 -,0,~10,0,0,-
+Pt.3,-,CD34 +,0,~40,~5,0,-
+Pt.3,-,CD34 -,0,~25,0,0,-
+Pt.4,Diagnosis,CD34 +,~40,~50,0,0,-
+Pt.4,Diagnosis,CD34 -,~30,~45,0,0,-
+Pt.4,Relapse,CD34 +,~55,~50,0,0,-
+Pt.4,Relapse,CD34 -,~55,~50,0,0,-

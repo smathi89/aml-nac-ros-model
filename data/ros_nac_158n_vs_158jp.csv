@@ -1,0 +1,7 @@
+Condition,NAC (µM),Cell Line,ROS Production (Fold Change),Notes
+158N untreated,-,158N,~1.0,Baseline
+158N + H2O2,-,158N,~10.5,### strong ROS elevation
+158JP + H2O2,25,158JP,~3.7,*** partial suppression
+158JP + H2O2,100,158JP,~4.0,*** partial suppression
+
+

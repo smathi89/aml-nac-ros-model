@@ -1,0 +1,9 @@
+Condition,H2O2 (500 µM),NAC (µM),Cell Line,ROS Production (Fold Change),Notes
+Control,-,-,158N,~1.0,Baseline
+NAC only,-,500,158N,~0.6,"### significantly lower"
+H2O2 only,+,-,158N,~6.0,"*** significant increase"
+H2O2 + NAC,+,50,158N,~5.8,"***; partial rescue"
+H2O2 + NAC,+,100,158N,~3.8,"***, ## significant reduction"
+H2O2 + NAC,+,250,158N,~2.4,"*; ### strong rescue"
+H2O2 + NAC,+,500,158N,~2.0,"### strong rescue"
+

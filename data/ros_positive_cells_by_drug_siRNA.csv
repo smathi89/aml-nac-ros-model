@@ -1,0 +1,25 @@
+Drug,Concentration (μM),siRNA,% ROS+ Cells
+Cisplatin,0,SCsiRNA,2%
+Cisplatin,0,APE1siRNA,3%
+Cisplatin,25,SCsiRNA,5%
+Cisplatin,25,APE1siRNA,13%
+Cisplatin,50,SCsiRNA,30%
+Cisplatin,50,APE1siRNA,50%
+Cisplatin,100,SCsiRNA,38%
+Cisplatin,100,APE1siRNA,67%
+Oxaliplatin,0,SCsiRNA,5%
+Oxaliplatin,0,APE1siRNA,6%
+Oxaliplatin,50,SCsiRNA,9%
+Oxaliplatin,50,APE1siRNA,6%
+Oxaliplatin,100,SCsiRNA,14%
+Oxaliplatin,100,APE1siRNA,20%
+Oxaliplatin,300,SCsiRNA,28%
+Oxaliplatin,300,APE1siRNA,41%
+Carboplatin,0,SCsiRNA,3%
+Carboplatin,0,APE1siRNA,3%
+Carboplatin,100,SCsiRNA,5%
+Carboplatin,100,APE1siRNA,3%
+Carboplatin,300,SCsiRNA,4%
+Carboplatin,300,APE1siRNA,3%
+Carboplatin,500,SCsiRNA,4%
+Carboplatin,500,APE1siRNA,3%

@@ -1,0 +1,7 @@
+Treatment Condition,CD14 Fold Increase (HL60),CD14 Fold Increase (OCI-AML3),CD14 Fold Increase (NB4),ROS Oxidation (HL60),ROS Oxidation (OCI-AML3),ROS Oxidation (NB4)
+Condition,1.0,1.0,1.0,1.0,1.0,1.0
+NAC,3.5,2.0,2.5,0.8,0.9,0.85
+DFO,1.0,1.1,1.2,2.3,2.4,2.1
+DFO + NAC,5.0,3.5,4.0,1.2,1.1,1.3
+
+

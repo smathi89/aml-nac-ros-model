@@ -1,0 +1,44 @@
+Figure ID,Cell Line,Condition,NAC (µM or mM),H2O2 (µM),PEGylated,Measurement,Measurement Value,Time,Notes
+Figure 1A,158N,Control,0,0,0,ROS Fold Change,1.0,,Baseline
+Figure 1A,158N,NAC only,500,0,0,ROS Fold Change,0.6,,Significantly lower
+Figure 1A,158N,H2O2 only,0,500,0,ROS Fold Change,6.0,,Significant increase
+Figure 1A,158N,H2O2 + NAC,50,500,0,ROS Fold Change,5.8,,Partial rescue
+Figure 1A,158N,H2O2 + NAC,100,500,0,ROS Fold Change,3.8,,Significant reduction
+Figure 1A,158N,H2O2 + NAC,250,500,0,ROS Fold Change,2.4,,Strong rescue
+Figure 1A,158N,H2O2 + NAC,500,500,0,ROS Fold Change,2.0,,Strong rescue
+Figure 1B,158N,Control,,0,0,ROS Fold Change,1.0,,Baseline
+Figure 1B,158JP,H2O2 + NAC,25,500,0,ROS Fold Change,3.7,,Partial suppression
+Figure 1B,158JP,H2O2 + NAC,100,500,0,ROS Fold Change,4.0,,Partial suppression
+Fig10A,4T1,shNT-PBS,,,,0,Tumor Size (mm³),~65,3 weeks,
+Fig10A,4T1,shNT-anti-GM1,,,,0,Tumor Size (mm³),~65,3 weeks,
+Fig10A,4T1,shNacc1-PBS,,,,0,Tumor Size (mm³),~35,3 weeks,
+Fig10A,4T1,shNacc1-anti-GM1,,,,0,Tumor Size (mm³),~65,3 weeks,
+Fig10B,EO771,Tumor (Nacc1+/+),,,,0,MDSC % Nacc1+,~100,,Nacc1+/+ tumor
+Fig10B,EO771,Tumor (Nacc1-/-),,,,0,MDSC % Nacc1+,~50,,Nacc1-/- tumor
+Fig10D,EO771,Nacc1+/+,,,,0,CD44 (APC-A),Low,,Less expression
+Fig10D,EO771,Nacc1-/-,,,,0,CD44 (APC-A),Higher,,Higher expression
+Fig10E,EO771,Nacc1+/+,,,,0,Aldolase Activity,~20000,,Low
+Fig10E,EO771,Nacc1-/-,,,,0,Aldolase Activity,~50000,,High
+Fig10F,C57BL/6J,Nacc1+/+,,,,0,# of Tumors,~3,,Violin plot average
+Fig10F,C57BL/6J,Nacc1-/-,,,,0,# of Tumors,~1.5,,Violin plot average
+Fig10H,EO771,Nacc1+/+,,,,0,Undivided %,~35,,Decreased with CD11b+
+Fig10H,EO771,Nacc1-/-,,,,0,Undivided %,~40,,Stable
+Fig10I,EO771,Nacc1+/+,,,,0,Bioluminescence,~6,,Photons/s/cm²/sr
+Fig10I,EO771,Nacc1-/-,,,,0,Bioluminescence,~3,,Photons/s/cm²/sr
+Fig6A,U87,EV,,,,0,Migration Rate,~0.35,18h,
+Fig6A,U87,Notch2,,,,0,Migration Rate,~0.6,18h,
+Fig6A,U87,EV+NAC+BSO,,,,0,Migration Rate,~0.2,18h,
+Fig6A,U87,Notch2+NAC+BSO,,,,0,Migration Rate,~0.4,18h,
+Fig6A,U251,EV,,,,0,Migration Rate,~0.4,18h,
+Fig6A,U251,Notch2,,,,0,Migration Rate,~0.6,18h,
+Fig6A,U251,EV+NAC+BSO,,,,0,Migration Rate,~0.25,18h,
+Fig6A,U251,Notch2+NAC+BSO,,,,0,Migration Rate,~0.35,18h,
+Fig6B,U87,EV,,,,0,Invasion # Cells,~40,18h,
+Fig6B,U87,Notch2,,,,0,Invasion # Cells,~55,18h,
+Fig6B,U87,EV+NAC+BSO,,,,0,Invasion # Cells,~25,18h,
+Fig6B,U87,Notch2+NAC+BSO,,,,0,Invasion # Cells,~35,18h,
+Fig6B,U251,EV,,,,0,Invasion # Cells,~40,18h,
+Fig6B,U251,Notch2,,,,0,Invasion # Cells,~60,18h,
+Fig6B,U251,EV+NAC+BSO,,,,0,Invasion # Cells,~30,18h,
+Fig6B,U251,Notch2+NAC+BSO,,,,0,Invasion # Cells,~35,18h
+

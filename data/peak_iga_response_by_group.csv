@@ -1,0 +1,13 @@
+Group,Route,Panel,Fluid,Peak IgA (ng/mL),Day of Peak
+PBS,i.m.,A–D,All fluids,0–200,-
+Blank CS/PLGA-NPs,i.n.,A–D,All fluids,0–250,-
+Blank CS/PLGA-NPs,i.m.,A–D,All fluids,0–250,-
+pVAX I-opti F,i.m.,A–D,All fluids,250–800,28
+pFDNA-CS/PLGA-NPs,i.m.,A,Serum,1800,35
+pFDNA-CS/PLGA-NPs,i.n.,A,Serum,1500,35
+pFDNA-CS/PLGA-NPs,i.m.,B,Tears,2700,35
+pFDNA-CS/PLGA-NPs,i.n.,B,Tears,2500,35
+pFDNA-CS/PLGA-NPs,i.m.,C,Tracheal fluid,1800,35
+pFDNA-CS/PLGA-NPs,i.n.,C,Tracheal fluid,1500,35
+pFDNA-CS/PLGA-NPs,i.m.,D,Bile,1200,42
+pFDNA-CS/PLGA-NPs,i.n.,D,Bile,1100,42

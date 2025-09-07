@@ -1,0 +1,85 @@
+Cell Line,Condition,NAC (µM),ROS Production (Fold Change),Notes
+158N,Control,-,1.0,Baseline
+158N,NAC only,500,0.6,### significantly lower
+158N,H2O2 only,-,6.0,*** significant increase
+158N,H2O2 + NAC,50,5.8,***; partial rescue
+158N,H2O2 + NAC,100,3.8,"***, ## significant reduction"
+158N,H2O2 + NAC,250,2.4,*; ### strong rescue
+158N,H2O2 + NAC,500,2.0,### strong rescue
+158N,158N untreated,-,1.0,Baseline
+158N,158N + H2O2,-,10.5,### strong ROS elevation
+158JP,158JP + H2O2,25,3.7,*** partial suppression
+158JP,158JP + H2O2,100,4.0,*** partial suppression
+158N,Control,-,1.0,Baseline
+158N,NAC only,500,0.6,### significantly lower
+158N,H2O2 only,-,6.0,*** significant increase
+158N,H2O2 + NAC,50,5.8,***; partial rescue
+158N,H2O2 + NAC,100,3.8,"***, ## significant reduction"
+158N,H2O2 + NAC,250,2.4,*; ### strong rescue
+158N,H2O2 + NAC,500,2.0,### strong rescue
+158N,158N untreated,-,1.0,Baseline
+158N,158N + H2O2,-,10.5,### strong ROS elevation
+158JP,158JP + H2O2,25,3.7,*** partial suppression
+158JP,158JP + H2O2,100,4.0,*** partial suppression
+158N,Control,-,1.0,Baseline
+158N,NAC only,500,0.6,### significantly lower
+158N,H2O2 only,-,6.0,*** significant increase
+158N,H2O2 + NAC,50,5.8,***; partial rescue
+158N,H2O2 + NAC,100,3.8,"***, ## significant reduction"
+158N,H2O2 + NAC,250,2.4,*; ### strong rescue
+158N,H2O2 + NAC,500,2.0,### strong rescue
+158N,158N untreated,-,1.0,Baseline
+158N,158N + H2O2,-,10.5,### strong ROS elevation
+158JP,158JP + H2O2,25,3.7,*** partial suppression
+158JP,158JP + H2O2,100,4.0,*** partial suppression
+158N,control,-,1.0,baseline
+158N,nac only,500,0.6,### significantly lower
+158N,h2o2 only,-,6.0,*** significant increase
+158N,h2o2 + nac,50,5.8,***; partial rescue
+158N,h2o2 + nac,100,3.8,"***, ## significant reduction"
+158N,h2o2 + nac,250,2.4,*; ### strong rescue
+158N,h2o2 + nac,500,2.0,### strong rescue
+158N,158n untreated,-,1.0,baseline
+158N,158n + h2o2,-,10.5,### strong ros elevation
+158JP,158jp + h2o2,25,3.7,*** partial suppression
+158JP,158jp + h2o2,100,4.0,*** partial suppression
+158N,control,-,1.0,baseline
+158N,nac only,500,0.6,### significantly lower
+158N,h2o2 only,-,6.0,*** significant increase
+158N,h2o2 + nac,50,5.8,***; partial rescue
+158N,h2o2 + nac,100,3.8,"***, ## significant reduction"
+158N,h2o2 + nac,250,2.4,*; ### strong rescue
+158N,h2o2 + nac,500,2.0,### strong rescue
+158N,158n untreated,-,1.0,baseline
+158N,158n + h2o2,-,10.5,### strong ros elevation
+158JP,158jp + h2o2,25,3.7,*** partial suppression
+158JP,158jp + h2o2,100,4.0,*** partial suppression
+Kasumi-1,kasumi-1 untreated,-,1.0,baseline
+Kasumi-1,kasumi-1 + h2o2,-,5.9,sharp increase in ROS
+Kasumi-1,kasumi-1 + nac,500,2.7,rescue effect
+MOLM-13,molm-13 untreated,-,1.0,baseline
+MOLM-13,molm-13 + h2o2,-,7.2,strong ROS elevation
+MOLM-13,molm-13 + nac,500,3.1,partial ROS suppression
+MOLM-13,molm-13 + nac + peg,500,1.8,enhanced suppression with PEG
+158N,control,-,1.0,baseline
+158N,nac only,500,0.6,### significantly lower
+158N,h2o2 only,-,6.0,*** significant increase
+158N,h2o2 + nac,50,5.8,***; partial rescue
+158N,h2o2 + nac,100,3.8,"***, ## significant reduction"
+158N,h2o2 + nac,250,2.4,*; ### strong rescue
+158N,h2o2 + nac,500,2.0,### strong rescue
+158N,158n untreated,-,1.0,baseline
+158N,158n + h2o2,-,10.5,### strong ros elevation
+158JP,158jp + h2o2,25,3.7,*** partial suppression
+158JP,158jp + h2o2,100,4.0,*** partial suppression
+158N,158N untreated,-,~1.0,Baseline
+158N,158N + H2O2,-,~10.5,### strong ROS elevation
+158JP,158JP + H2O2,25,~3.7,*** partial suppression
+158JP,158JP + H2O2,100,~4.0,*** partial suppression
+158N,Control,-,~1.0,Baseline
+158N,NAC only,500,~0.6,### significantly lower
+158N,H2O2 only,-,~6.0,*** significant increase
+158N,H2O2 + NAC,50,~5.8,***; partial rescue
+158N,H2O2 + NAC,100,~3.8,"***, ## significant reduction"
+158N,H2O2 + NAC,250,~2.4,*; ### strong rescue
+158N,H2O2 + NAC,500,~2.0,### strong rescue

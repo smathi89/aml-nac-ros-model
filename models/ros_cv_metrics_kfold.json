@@ -1,0 +1,87 @@
+{
+  "results": [
+    {
+      "model": "dummy",
+      "best_params": {},
+      "oof_r2": -0.15052896854332198,
+      "oof_rmse": 0.05667513942260245,
+      "oof_mae": 0.020499999999999994
+    },
+    {
+      "model": "elasticnet",
+      "best_params": {
+        "est__alpha": 0.001,
+        "est__l1_ratio": 0.1
+      },
+      "oof_r2": 0.5138316281917739,
+      "oof_rmse": 0.03684148854630993,
+      "oof_mae": 0.010615570020118965
+    },
+    {
+      "model": "ridge",
+      "best_params": {
+        "est__alpha": 0.1
+      },
+      "oof_r2": 0.50543851334207,
+      "oof_rmse": 0.037158139837695725,
+      "oof_mae": 0.012007470662959905
+    },
+    {
+      "model": "huber",
+      "best_params": {
+        "est__alpha": 0.01,
+        "est__epsilon": 1.35
+      },
+      "oof_r2": -2.1384785352299285,
+      "oof_rmse": 0.0936059379941592,
+      "oof_mae": 0.04277453763010832
+    },
+    {
+      "model": "random_forest",
+      "best_params": {
+        "est__max_depth": null,
+        "est__min_samples_leaf": 1,
+        "est__n_estimators": 500
+      },
+      "oof_r2": 0.11504271824589607,
+      "oof_rmse": 0.04970556007703191,
+      "oof_mae": 0.019990428571428614
+    },
+    {
+      "model": "xgboost",
+      "best_params": {
+        "est__colsample_bytree": 0.8,
+        "est__learning_rate": 0.1,
+        "est__max_depth": 3,
+        "est__n_estimators": 100,
+        "est__reg_lambda": 5.0,
+        "est__subsample": 1.0
+      },
+      "oof_r2": 0.5872915801165529,
+      "oof_rmse": 0.03394419258698697,
+      "oof_mae": 0.010704002176012306
+    }
+  ],
+  "best_model": "elasticnet",
+  "oof_metrics": {
+    "r2": 0.5138316281917739,
+    "rmse": 0.03684148854630993,
+    "mae": 0.010615570020118965
+  },
+  "dummy_oof": {
+    "r2": -0.15052896854332198,
+    "rmse": 0.05667513942260245,
+    "mae": 0.020499999999999994
+  },
+  "skill_scores": {
+    "mae": 0.48216731609175767,
+    "rmse": 0.349953278957135,
+    "mse": 0.5774392604614198
+  },
+  "cv": "KFold",
+  "sanity_kfold_metrics": {
+    "r2": 0.5138316281917739,
+    "rmse": 0.03684148854630993,
+    "mae": 0.010615570020118965
+  }
+}

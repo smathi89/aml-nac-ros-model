@@ -1,0 +1,22 @@
+Treatment Condition,CD14 Fold Increase (HL60),CD14 Fold Increase (OCI-AML3),CD14 Fold Increase (NB4),ROS Oxidation (HL60),ROS Oxidation (OCI-AML3),ROS Oxidation (NB4),Compound Name,IC50,Dosing Range,Units,Concentrations Tested,Microscopy Images,Observed Response,Study,Cell Line,Condition,Apoptosis (%),PARP Fold Change,ROS Level,Cell Viability (%),Nanoparticle,NAC,H2O2_mM,Concentration_mg/mL,ROS_Level_%Control,Observation,Drug,Concentration (μM),siRNA,% ROS+ Cells
+,,,,,,,,,,,,,,,,,,,,,Ta NPs,,1.0,0.5,40,Partial ROS reduction,,,,
+,,,,,,,,,,,,,,,,,,,,,Ta NPs,,1.0,1.0,30,Significant ROS reduction,,,,
+,,,,,,,,,,,,,,,,,,,,,Ta NPs,,1.0,2.0,20,Strong ROS reduction,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Cisplatin,25.0,SCsiRNA,5%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Cisplatin,25.0,APE1siRNA,13%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Cisplatin,50.0,SCsiRNA,30%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Cisplatin,50.0,APE1siRNA,50%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Cisplatin,100.0,SCsiRNA,38%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Cisplatin,100.0,APE1siRNA,67%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Oxaliplatin,50.0,SCsiRNA,9%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Oxaliplatin,50.0,APE1siRNA,6%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Oxaliplatin,100.0,SCsiRNA,14%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Oxaliplatin,100.0,APE1siRNA,20%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Oxaliplatin,300.0,SCsiRNA,28%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Oxaliplatin,300.0,APE1siRNA,41%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Carboplatin,100.0,SCsiRNA,5%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Carboplatin,100.0,APE1siRNA,3%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Carboplatin,300.0,SCsiRNA,4%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Carboplatin,300.0,APE1siRNA,3%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Carboplatin,500.0,SCsiRNA,4%
+,,,,,,,,,,,,,,,,,,,,,,,,,,,Carboplatin,500.0,APE1siRNA,3%

@@ -1,0 +1,7 @@
+{
+  "strategy": "from_ROS_Level_%Control",
+  "column": "ROS_Level_%Control",
+  "select_mode": "nac_any",
+  "keep_unit": "NONE",
+  "min_rows_study": 2
+}

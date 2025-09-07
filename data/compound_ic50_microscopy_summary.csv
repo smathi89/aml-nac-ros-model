@@ -1,0 +1,5 @@
+Compound Name,IC50,Dosing Range,Units,Concentrations Tested,Microscopy Images,Observed Response
+Mito-nNAC-SMe,1.9,0–100,μM,"0, 0.1, 0.2, 0.4, 0.8, 1.6, 3.1, 6.25, 12.5, 25, 50, 100","control, 1.6 μM, 12.5 μM","Starts dropping at 1.6 μM, near-zero at ≥12.5 μM"
+Mito-PEG-NAC,36.7,0–100,μM,Same as above,"control, 25 μM, 50 μM","Moderate drop at 25 μM, severe at 50 μM"
+NAC-SMe,6600,0–100,mM,"0, 0.1, 0.2, 0.4, 0.8, 1.6, 3.1, 6.25, 12.5, 25, 50, 100","control, 6.2 mM, 25 mM","Initial drop at 6.25 mM, near-zero at ≥25 mM"
+NAC amide,4300,0–100,mM,Same as above,"control, 3.1 mM, 6.2 mM","Gradual drop at 3.1 mM, steep decline by 6.2 mM"

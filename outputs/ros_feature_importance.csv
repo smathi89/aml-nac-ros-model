@@ -1,0 +1,78 @@
+feature,importance
+NAC Involved_Yes,0.06517709
+NAC Involved_No,0.06422991
+is_dosed,0.055155836
+log_dose,0.04469744
+Condition_AS serum + NAC,0.044116843
+Cell Line_Primary Human Cells,0.04226227
+ROS Unit_fluorescence units,0.039250135
+Concentration (μM or mM)_5 μM,0.037654653
+Drug_CDDP,0.0361977
+"Concentrations Tested_0, 0.1, 0.2, 0.4, 0.8, 1.6, 3.1, 6.25, 12.5, 25, 50, 100",0.033983216
+Concentration (uM),0.033620454
+Concentrations Tested_Same as above,0.033544987
+ROS Unit_% Dead Cells,0.032622114
+dose_uM,0.03206309
+Cell Line_U2OS,0.029627033
+Drug_Cisplatin,0.028661741
+carrier_present,0.028124286
+siRNA_APE1siRNA,0.026865594
+Condition_PEITC + NAC,0.02645738
+siRNA_SCsiRNA,0.026346078
+Compound Name_Mito-nNAC-SMe,0.025485102
+Concentration_mg/mL,0.024836473
+Drug_Carboplatin,0.02391318
+ROS Unit_IC50 μg/ml,0.023528555
+Concentration (μM or mM)_10 μM,0.02325397
+Drug_Oxaliplatin,0.022441223
+Compound Name_NAC amide,0.021185055
+Concentration (μM or mM)_100 μM,0.020066787
+IC50,0.018971257
+Cell Line_SKOV-3,0.016903248
+Units_uM,0.008637067
+Units_mM,0.005120207
+CD14 Fold Increase (HL60),0.0021497733
+CD14 Fold Increase (OCI-AML3),0.002126588
+CD14 Fold Increase (NB4),0.00036186533
+Treatment Condition_DFO + NAC,0.00036186533
+Treatment Condition_Condition,0.0
+Treatment Condition_DFO,0.0
+Cell Line_RAW264.7,0.0
+Cell Line_SAOS2,0.0
+Compound Name_NAC-SMe,0.0
+Cell Line_PA-1,0.0
+Treatment Condition_NAC,0.0
+Compound Name_Mito-PEG-NAC,0.0
+Cell Line_HL-60,0.0
+Condition_Xn,0.0
+Condition_Sensitive,0.0
+Condition_Scramble control,0.0
+Condition_SCsiRNA,0.0
+Condition_Resistant,0.0
+Condition_NAC+SOD,0.0
+Condition_NAC co-treatment,0.0
+Condition_NAC alone,0.0
+Cell Line_U2OS(R),0.0
+Condition_APE1siRNA,0.0
+Condition_APE1 knockdown,0.0
+Condition_2a,0.0
+Cell Line_U937,0.0
+Cell Line_HeLa,0.0
+Nanoparticle_Ta NPs,0.0
+Condition_Xn+NAC,0.0
+Drug_Xn,0.0
+Drug_NAC+2a,0.0
+Drug_NAC + 200U SOD,0.0
+Drug_NAC + 100U SOD,0.0
+Drug_NAC,0.0
+H2O2_mM_1.0,0.0
+H2O2_mM_Not specified,0.0
+Drug_2a,0.0
+Condition_mAPE1,0.0
+Nanoparticle_PFNP,0.0
+Concentration (μM or mM)_0.5 mM,0.0
+Concentration (μM or mM)_1.0 mM,0.0
+Concentration (μM or mM)_2 μM,0.0
+ROS Unit_% ROS-positive,0.0
+ROS Unit_Relative Fluorescence,0.0
+ROS Unit_p-IκBα rel. GAPDH,0.0

@@ -1,0 +1,26 @@
+{
+  "categorical_cols": [
+    "Treatment Condition",
+    "Compound Name",
+    "Units",
+    "Concentrations Tested",
+    "Cell Line",
+    "Condition",
+    "Nanoparticle",
+    "H2O2_mM",
+    "Drug",
+    "siRNA",
+    "Concentration (\u03bcM or mM)",
+    "ROS Unit",
+    "NAC Involved"
+  ],
+  "numeric_cols": [
+    "CD14 Fold Increase (HL60)",
+    "CD14 Fold Increase (OCI-AML3)",
+    "CD14 Fold Increase (NB4)",
+    "IC50",
+    "Concentration_mg/mL",
+    "Concentration (uM)",
+    "carrier_present"
+  ]
+}
